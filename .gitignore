@@ -28,7 +28,6 @@ npm-debug.log
 /.idea
 
 # webpack build target folder
-/commonjs/
-/modules/
-
-/bundle/
+# /commonjs/
+# /modules/
+# /bundle/

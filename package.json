@@ -267,7 +267,7 @@
   "dependencies": {
     "classnames": "^2.3.1",
     "country-flag-icons": "^1.5.4",
-    "input-format": "^0.3.8",
+    "input-format": "github:maullerz/input-format#7c5321119a9c42fc17a9a61f1067115120512c78",
     "libphonenumber-js": "^1.10.6",
     "prop-types": "^15.8.1"
   },
